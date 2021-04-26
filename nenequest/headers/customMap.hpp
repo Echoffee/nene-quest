@@ -2,6 +2,7 @@
 #define CMDCUSTOMMAP_HPP_INCLUDED
 
 #include <map>
+#include <string>
 
 class CustomMap {
    private:
